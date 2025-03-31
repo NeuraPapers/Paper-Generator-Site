@@ -38,7 +38,7 @@ async function generatePaper() {
             method: "POST",
             headers: {
                 "Authorization": "Bearer <API-KEY>",
-                "Content-Type": "application/json"
+                "Content-Type": "application/json",
 
                 "HTTP-Referer": "https://github.com/NeuraPapers", // Optional. Site URL for rankings on openrouter.ai.
                 "X-Title": "NeuraPapers", // Optional. Site title for rankings on openrouter.ai.
