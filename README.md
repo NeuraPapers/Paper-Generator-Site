@@ -67,11 +67,3 @@ Contributions welcome! Please:
 4. Push to the branch
 5. Open a pull request
 
-## 📜 License
-
-MIT © 2023 Your Name
-
----
-
-**Note**: Always verify generated content with authoritative sources. This tool assists research but doesn't replace academic rigor.
-```
